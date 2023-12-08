@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh Dahal</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/programmer-working-developing-coding-task-600nw-2269269337.jpg">
-<style> img{
-  {
-  radius:60%;
-  opaque:0.7;
-  content: '';
-  size(100%);
-  top: 0;
-  left: 0;
-  z-index: 1;
-  background: rgba(0, 0, 0,0 0.1);
-}</style>
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/programmer-working-developing-coding-task-600nw-2269269337.jpg"style="radius:60%;opaque:0.6;">
 
 - 🔭 I’m currently working on [E-Commerce Website](https://itshop.com.np)
 
