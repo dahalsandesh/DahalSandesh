@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/programmer-working-developing-coding-task-600nw-2269269337.jpg">
 <style> img{
   {
+  radius:60%;
+  opaque:0.7;
   content: '';
   size(100%);
   top: 0;
