@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh Dahal</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
-img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/programmer-working-developing-coding-task-vector-2269269337"
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/programmer-working-developing-coding-task-vector-2269269337">
 
 
 - 🔭 I’m currently working on [E-Commerce Website](https://itshop.com.np)
