@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Cloud Kitchen Website](tufaan.rf.gd)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DahalSandesh](https://github.com/DahalSandesh)
+- 👨‍💻 All of my projects are available at [https://github.com/dahalsandesh](https://github.com/dahalsandesh)
 
 - 📝 I regularly write articles on [dahalsandesh.com.np/blogs](dahalsandesh.com.np/blogs)
 
