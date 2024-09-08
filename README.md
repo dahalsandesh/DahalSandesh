@@ -2,12 +2,12 @@
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/programmer-working-developing-coding-task-600nw-2269269337.jpg"style="radius:50%;opaque:0.5;">
 
-- 🔭 I’m currently working on [Personalized News Recommendation System](https://github.com/dahalsandesh/Personalized-News-Recommendation-Frontend)
+- 🔭 I’m currently working on [E-Commerce](https://github.com/dahalsandesh/Ecommerce-site)
+
 
 - 🌱 I’m currently learning **React & NodeJs**
 
-- 👯 I’m looking to collaborate on [Cloud Kitchen Website](tufaan.rf.gd)
-
+- 👯 I’m looking to collaborate on [Personalized News Recommendation System](https://github.com/dahalsandesh/Personalized-News-Recommendation-Frontend)
 - 👨‍💻 All of my projects are available at [https://github.com/dahalsandesh](https://github.com/dahalsandesh)
 
 - 💬 Ask me about **JavaScript**
